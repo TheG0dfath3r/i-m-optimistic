@@ -20,10 +20,8 @@ const Info: React.FC<Props> = ({ onDrop }: Props) => {
         <Col xs={12}>
           <h1>Optimism Mask</h1>
           <p>
-            Do your part to support Optimistic Rollups <br />
-            for Ethereum's better scaling tomorrow! Upload <br />
-            your photo, choose your mask, and download <br />
-            or share with the Twitter button!
+          Share your support for the launch of Persistence One’s XPRT token. Upload your photo, then click “Edit effect” to resize the Persistence logos and adjust the angle. When you’re ready, click “Save” to download the image to your computer, or click “Share” and post it to Twitter! 
+
           </p>
           <Links>
             <a href="https://optimism.io/" target="_blank" rel="noreferrer">
