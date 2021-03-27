@@ -3,7 +3,7 @@ import styled from "styled-components"
 import { rem } from "polished"
 
 import Dropdown from "../components/Dropdown"
-import { IconTwitter, IconTelegram, IconInstagram, IconGithub } from "../icons"
+import { IconTwitter, IconTelegram } from "../icons"
 
 interface LinkProps {
   href?: string

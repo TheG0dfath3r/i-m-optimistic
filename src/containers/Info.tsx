@@ -5,7 +5,7 @@ import styled from "styled-components"
 import { rem } from "polished"
 
 import Button, { ButtonColor, ButtonSize } from "../components/Button"
-import { IconInfo, IconYoutube } from "../icons"
+import { IconInfo } from "../icons"
 
 interface Props {
   onDrop: (files: File[]) => void
