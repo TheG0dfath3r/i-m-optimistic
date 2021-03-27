@@ -18,20 +18,17 @@ const Info: React.FC<Props> = ({ onDrop }: Props) => {
     <Wrapper>
       <Row middle="xs" center="xs">
         <Col xs={12}>
-          <h1>Optimism Mask</h1>
+          <h1>Persistance Mask</h1>
           <p>
           Share your support for the launch of Persistence One’s XPRT token. Upload your photo, then click “Edit effect” to resize the Persistence logos and adjust the angle. When you’re ready, click “Save” to download the image to your computer, or click “Share” and post it to Twitter! 
 
           </p>
           <Links>
-            <a href="https://optimism.io/" target="_blank" rel="noreferrer">
+            <a href="https://persistence.one/" target="_blank" rel="noreferrer">
               <IconInfo />
-              <span>Optimistic rollups</span>
+              <span>Persistance Website</span>
             </a>
-            <a href="https://youtu.be/97DU_YgNPgE" target="_blank" rel="noreferrer">
-              <IconYoutube />
-              <span>Video explainer</span>
-            </a>
+           
           </Links>
           <Divider />
           <UploadWrapper>

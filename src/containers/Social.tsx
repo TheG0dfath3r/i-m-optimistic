@@ -88,22 +88,18 @@ const Social: React.FC = () => {
         </a>
       </Copy>
       <List>
-        <SocialLink href="https://t.me/stakefish" target="_blank" rel="noreferrer">
+        <SocialLink href="https://t.me/PersistenceOneChat" target="_blank" rel="noreferrer">
           <IconTelegram />
         </SocialLink>
-        <SocialLink href="https://instagram.com/stakedotfish" target="_blank" rel="noreferrer">
-          <IconInstagram />
-        </SocialLink>
+
         <Dropdown
           title={<IconTwitter />}
           data={[
-            { name: "f2pool", url: "https://twitter.com/f2pool_official" },
-            { name: "stakefish", url: "https://twitter.com/stakefish" },
+            { name: "PersistanceOne", url: "https://twitter.com/PersistenceOne" },
+           
           ]}
         />
-        <SocialLink href="https://github.com/stakefish/i-m-optimistic" target="_blank" rel="noreferrer">
-          <IconGithub />
-        </SocialLink>
+        
       </List>
     </Wrapper>
   )
