@@ -18,7 +18,7 @@ const Info: React.FC<Props> = ({ onDrop }: Props) => {
     <Wrapper>
       <Row middle="xs" center="xs">
         <Col xs={12}>
-          <h1>Persistance Mask</h1>
+          <h1>PERSISTENCE MASK</h1>
           <p>
           Share your support for the launch of Persistence One’s XPRT token. Upload your photo, then click “Edit effect” to resize the Persistence logos and adjust the angle. When you’re ready, click “Save” to download the image to your computer, or click “Share” and post it to Twitter! 
 
@@ -26,7 +26,7 @@ const Info: React.FC<Props> = ({ onDrop }: Props) => {
           <Links>
             <a href="https://persistence.one/" target="_blank" rel="noreferrer">
               <IconInfo />
-              <span>Persistance Website</span>
+              <span>PERSISTENCE Website</span>
             </a>
            
           </Links>
