@@ -20,7 +20,7 @@ const Info: React.FC<Props> = ({ onDrop }: Props) => {
         <Col xs={12}>
           <h1>PERSISTENCE MASK</h1>
           <p>
-          Share your support for the launch of Persistence One’s XPRT token. Upload your photo,and click “Edit effect” to resize the Persistence logos. When you’re ready, click “Save” to download the image , or click “Share” and post it to Twitter! 
+          Share your support for the launch of Persistence One’s XPRT token. When you’re ready, click “Save” to download the image , or click “Share” and post it to Twitter! 
 
           </p>
           <Links>
