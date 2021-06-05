@@ -22,7 +22,7 @@ const theme = {
       headings: "'Muli', sans-serif",
     },
     fontSize: {
-      base: 16,
+      base: 12,
       lead: 18,
       h1: 42,
       h2: 38,

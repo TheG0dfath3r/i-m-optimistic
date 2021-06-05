@@ -7,10 +7,10 @@ const Header: React.FC = () => {
   return (
     <Wrapper>
       <Grid>
-        <Logo href="/">
-          <img src="/static/images/logo.svg" alt="OPTIMISM MASK" />
+      
+          <img src="/static/images/logo.png" height="110px" alt="OPTIMISM MASK" />
           <span></span>
-        </Logo>
+      
       </Grid>
     </Wrapper>
   )
