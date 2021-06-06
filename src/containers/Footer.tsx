@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
           </Col>
           <Col xs={12} sm={8}>
             <Disclaimer>
-            We forked this code from stakefish & f2pool’s work. We’ve provided the “Persistence One Mask” app for fun and to support the launch of our XPRT token. We never store photos, and we don’t transmit any data other than an anonymous identifier, which contains no personal information. The source code is available for those who would like to review it.
+            This code is forked from the work done by stakefish & f2pool. The "Persistence One Mask” app is provided for fun and convenience. We never store photos, and do not transmit any data besides an anonymous identifier containing no personal information. We have also made the source code available in the event you would like to review it.
             </Disclaimer>
           </Col>
         </Row>

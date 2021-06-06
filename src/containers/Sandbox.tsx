@@ -157,7 +157,7 @@ const Sandbox: React.FC<Props> = ({ file }: Props) => {
               as="a"
               target="_blank"
               rel="noreferrer"
-              href="https://twitter.com/intent/tweet?text=Prepare%20for%20liftoff%20%20%F0%9F%9A%80%F0%9F%A4%91%20%20Our%20%24XPRT%20token%20launches%20on%20Tuesday%2C%20exclusively%20on%20%20%40AscendEX_Global.%20Upload%20a%20pic%2C%20resize%20the%20logos%20%26%20adjust%20the%20angle%20to%20show%20the%20world%2C%20you'll%20be%20there%20at%20the%20launch%20%20%20swag.persistence.one"
+              href="https://twitter.com/intent/tweet?text=Hey%2C%20check%20this%20out.%20Get%20yours%20here%20mask.persistence.one%20%20%24XPRT%20@PersistenceOne"
             >
               <IconShare />
               Share
