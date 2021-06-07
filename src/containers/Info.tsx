@@ -20,13 +20,14 @@ const Info: React.FC<Props> = ({ onDrop }: Props) => {
         <Col xs={12}>
           <h1>PERSISTENCE MASK</h1>
           <p>
-          Share your support for the launch of Persistence One’s XPRT token. When you’re ready, click “Save” to download the image , or click “Share” and post it to Twitter! 
+          Share your support for Persistence One. Upload your photo, choose your mask, and download 
+or share with the Twitter button! 
 
           </p>
           <Links>
             <a href="https://persistence.one/" target="_blank" rel="noreferrer">
-            <img src="https://img.icons8.com/wired/14/000000/globe.png"/>
-              <span style={{marginLeft:'8px'}}>PERSISTENCE Website</span>
+            <img src="https://img.icons8.com/wired/16/000000/globe.png"/>
+              <span style={{marginLeft:'8px'}}>Website</span>
             </a>
            
           </Links>
