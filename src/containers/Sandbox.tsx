@@ -157,7 +157,7 @@ const Sandbox: React.FC<Props> = ({ file }: Props) => {
               as="a"
               target="_blank"
               rel="noreferrer"
-              href="https://twitter.com/intent/tweet?text=Hey%2C%20check%20this%20out.%20Get%20yours%20here%20mask.persistence.one%20%20%24XPRT%20@PersistenceOne"
+              href="https://twitter.com/intent/tweet?text=Hey%2C%20pStake%20is%20launching%20soon.%20Show%20your%20support%20by%20created%20your%20own%20pStake%20Mask%20from%20https%3A%2F%2Fmask.pstake.finance.%20%40pStakeFinance%20"
             >
               <IconShare />
               Share

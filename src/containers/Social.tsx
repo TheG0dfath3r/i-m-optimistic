@@ -95,7 +95,7 @@ const Social: React.FC = () => {
         <Dropdown
           title={<IconTwitter />}
           data={[
-            { name: "PersistanceOne", url: "https://twitter.com/PersistenceOne" },
+            { name: "PersistanceOne", url: "https://twitter.com/pStakeFinance" },
            
           ]}
         />
