@@ -8,7 +8,7 @@ const Header: React.FC = () => {
     <Wrapper>
       <Grid>
       
-          <img src="/static/images/logo.jpg" height="110px" alt="OPTIMISM MASK" />
+          <img src="/public/static/images/logo.jpg" height="110px" alt="OPTIMISM MASK" />
           <span></span>
       
       </Grid>
