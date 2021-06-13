@@ -2,13 +2,13 @@ import React from "react"
 import { Grid } from "react-styled-flexboxgrid"
 import styled from "styled-components"
 import { rem } from "polished"
-
+import LOGO from "../../public/static/images/logo.jpg";
 const Header: React.FC = () => {
   return (
     <Wrapper>
       <Grid>
       
-          <img src="/public/static/images/logo.jpg" height="110px" alt="OPTIMISM MASK" />
+          <img src={LOGO} height="110px" alt="OPTIMISM MASK" />
           <span></span>
       
       </Grid>
