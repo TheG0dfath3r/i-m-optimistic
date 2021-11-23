@@ -77,16 +77,7 @@ const List = styled.div`
 const Social: React.FC = () => {
   return (
     <Wrapper>
-      <Copy>
-        {"Powered by "}
-        <a href="https://stake.fish/" target="_blank" rel="noreferrer">
-          stakefish
-        </a>
-        {" & "}
-        <a href="https://www.f2pool.com/" target="_blank" rel="noreferrer">
-          f2pool
-        </a>
-      </Copy>
+     
       <List>
         <SocialLink href="https://t.me/PersistenceOneChat" target="_blank" rel="noreferrer">
           <IconTelegram />
