@@ -5,7 +5,7 @@ import Konva from "konva"
 
 import { SCALE_FACTOR } from "./helpers/const"
 
-import App from "./core/App"
+ import App from "./core/App"
 
 Konva.pixelRatio = SCALE_FACTOR
 ReactDOM.render(<App />, document.getElementById("root"))
