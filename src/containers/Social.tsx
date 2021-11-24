@@ -79,14 +79,14 @@ const Social: React.FC = () => {
     <Wrapper>
      
       <List>
-        <SocialLink href="https://t.me/PersistenceOneChat" target="_blank" rel="noreferrer">
+        <SocialLink href="https://t.me/pstakefinancechat" target="_blank" rel="noreferrer">
           <IconTelegram />
         </SocialLink>
 
         <Dropdown
           title={<IconTwitter />}
           data={[
-            { name: "PersistanceOne", url: "https://twitter.com/pStakeFinance" },
+            { name: "pSTAKE Finance", url: "https://twitter.com/pStakeFinance" },
            
           ]}
         />
