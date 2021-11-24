@@ -39,7 +39,7 @@ or share with the Twitter button!
           <UploadWrapper>
             <div>
               <Button $color={ButtonColor.White} $size={ButtonSize.Lg} {...getRootProps()}>
-                Pick Photo
+                Upload Photo
                 <input {...getInputProps()} name="file" accept="image/*" />
               </Button>
               <Hint>or drag and drop your file here</Hint>
