@@ -111,7 +111,7 @@ const Sandbox: React.FC<Props> = ({ file }: Props) => {
             draggable
             scale={scale}
             rotation={rotation}
-            src="/static/images/stripe.svg"
+            src="/static/images/stripe.png"
             x={coordinates?.x}
             y={coordinates?.y}
             offsetX={MASK_WIDTH / SCALE_FACTOR}
